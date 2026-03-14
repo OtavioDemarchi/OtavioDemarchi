@@ -33,7 +33,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/OtavioDemarchi/OtavioDemarchi/output/snake.svg" alt="Snake animation" />
-
-###
