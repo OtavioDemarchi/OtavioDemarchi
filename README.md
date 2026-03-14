@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://s8.ezgif.com/tmp/ezgif-84a17b611c48527c.gif"  />
+  <img height="150" src="https://i.imgur.com/ekCkPMO.gif"  />
 </div>
 
 ###
